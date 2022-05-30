@@ -30,7 +30,7 @@
     ]
   },
   "pages/support.vue": {
-    "file": "support-61392556.mjs",
+    "file": "support-61392556.js",
     "src": "pages/support.vue",
     "isDynamicEntry": true,
     "imports": [
